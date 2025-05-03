@@ -1,8 +1,8 @@
-### Project FLAiRE
+## Project FLAiRE
 Fire Location Alert and Intelligent Response Engine
 FLAiRE is an advanced fire safety system that automatically detects smoke and flames, activates a sprinkler system, and sends an SMS alert to the nearest fire station. This system is designed to ensure rapid response to fire incidents, minimizing damage and improving emergency reaction time.
 
-#✨ Features
+# ✨ Features
 🔥 Intelligent Fire Detection
 FLAiRE uses flame sensors and smoke detectors to monitor fire threats in real-time with high sensitivity, reducing the chances of false positives.
 
